@@ -44,7 +44,7 @@ section {
 }
 
 h1, p {
-    color: #333; /* changed text color to #333 for better visibility */
+    text-color: #333; /* changed text color to #333 for better visibility */
 }
 
 .btn {
