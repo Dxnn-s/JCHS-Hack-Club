@@ -43,17 +43,6 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.hero {
-    background-color: #fff;
-    padding: 20px;
-    margin-bottom: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    max-width: 600px;
-    margin: 40px auto;
-    border: 1px solid #ddd;
-    border-radius: 20px; /* added border-radius to make the box rounded */
-}
-
 h1 {
     font-weight: bold;
     margin-top: 0;
