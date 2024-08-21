@@ -51,19 +51,20 @@ nav ul li a:hover {
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: #333;
     padding: 0 1.5em;
 }
 
 .hero h1 {
     font-size: 3em;
     margin-bottom: 0.3em;
+    text-color: #333;
 }
 
 .hero p {
     font-size: 1.2em;
     margin-bottom: 1em;
     max-width: 600px;
+    text-color: #333;
 }
 
 .hero a {
