@@ -43,13 +43,8 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h1 {
-    font-weight: bold;
-    margin-top: 0;
-}
-
-p {
-    margin-bottom: 20px;
+h1, p {
+    color: #333; /* changed text color to #333 for better visibility */
 }
 
 .btn {
