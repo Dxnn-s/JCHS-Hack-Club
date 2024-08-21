@@ -42,7 +42,7 @@ nav ul li a:hover {
 }
 
 .hero {
-    background-image: url('https://source.unsplash.com/1600x900/?code,computer');
+    background-image: url('computer.png');
     background-size: cover;
     background-position: center;
     height: 90vh;
