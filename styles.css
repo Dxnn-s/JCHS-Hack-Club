@@ -48,6 +48,7 @@ nav ul li a:hover {
     height: 90vh;
     display: flex;
     flex-direction: column;
+    color: #333;
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -57,14 +58,12 @@ nav ul li a:hover {
 .hero h1 {
     font-size: 3em;
     margin-bottom: 0.3em;
-    text-color: #333;
 }
 
 .hero p {
     font-size: 1.2em;
     margin-bottom: 1em;
     max-width: 600px;
-    text-color: #333;
 }
 
 .hero a {
